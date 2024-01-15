@@ -1,4 +1,4 @@
-* **Austin Van Braeckel - 1085829 - avanbrae@uoguelph.ca**
+* **Austin Van Braeckel**
 * **CIS1300 - Programming ( Deborah Stacey)**
 * **Due: 11-18-2019**
 
